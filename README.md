@@ -6,9 +6,9 @@ The objective of this project is to perform a comprehensive analysis of the Supe
 
 
 # Methodology
-•	Conducted data analysis on a superstore dataset, identifying key insights such as the top 5 most profitable.
-•	Advanced functions and techniques, including Windows functions and ranking, were utilized to optimize data querying and analysis.
-•	Visualized data using a variety of tools and techniques, including maps, charts, and cards, to clearly communicate trends and insights.
+1)	Conducted data analysis on a superstore dataset, identifying key insights such as the top 5 most profitable.
+2)	Advanced functions and techniques, including Windows functions and ranking, were utilized to optimize data querying and analysis.
+3)	Visualized data using a variety of tools and techniques, including maps, charts, and cards, to clearly communicate trends and insights.
 
 
 # Screenshot of Dashboard
